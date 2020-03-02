@@ -1,6 +1,6 @@
-### guys im good at coding im better than aiden
+## guys im good at coding im better than aiden at coding
 
-## Contributors
+### Contributors
 * [Nathan Friedly](http://nfriedly.com)
 * [Arturo Filastò](https://github.com/hellais)
 * [tfMen](https://github.com/tfMen)
