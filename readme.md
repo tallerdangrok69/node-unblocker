@@ -1,4 +1,4 @@
-#### AIDEN IS A LIAR AND STEALS CODE
+### guys im good at coding im better than aiden
 
 ## Contributors
 * [Nathan Friedly](http://nfriedly.com)
